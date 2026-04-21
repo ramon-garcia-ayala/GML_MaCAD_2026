@@ -1,0 +1,93 @@
+# Rhino
+
+mtllib Assignment-01_Grasshopper_Doors_Auto.mtl
+usemtl Default
+v 1 0 -8
+v 1 2 -8
+v 2 2 -8
+v 2 0 -8
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+f 1//1 2//2 3//3 4//4
+usemtl Default
+v 5 0 -14
+v 5 2 -14
+v 5 2 -15
+v 5 0 -15
+vn -1 0 0
+vn -1 0 0
+vn -1 0 0
+vn -1 0 0
+f 5//5 6//6 7//7 8//8
+usemtl Default
+v 10 0 -4
+v 10 2 -4
+v 11 2 -4
+v 11 0 -4
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+f 9//9 10//10 11//11 12//12
+usemtl Default
+v 5.5 0 -6
+v 5.5 2 -6
+v 6.5 2 -6
+v 6.5 0 -6
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+f 13//13 14//14 15//15 16//16
+usemtl Default
+v 5.5 0 -16
+v 5.5 2 -16
+v 6.5 2 -16
+v 6.5 0 -16
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+f 17//17 18//18 19//19 20//20
+usemtl Default
+v 10 0 -10
+v 10 2 -10
+v 11 2 -10
+v 11 0 -10
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+f 21//21 22//22 23//23 24//24
+usemtl Default
+v 7 0 -14
+v 7 2 -14
+v 7 2 -15
+v 7 0 -15
+vn -1 0 0
+vn -1 0 0
+vn -1 0 0
+vn -1 0 0
+f 25//25 26//26 27//27 28//28
+usemtl Default
+v 1 0 -6
+v 1 2 -6
+v 2 2 -6
+v 2 0 -6
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+vn 0 0 -1
+f 29//29 30//30 31//31 32//32
+usemtl Default
+v 0 0 -10
+v 0 2 -10
+v 0 2 -9
+v 0 0 -9
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+vn 1 0 0
+f 33//33 34//34 35//35 36//36
