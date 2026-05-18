@@ -19,3 +19,6 @@ Thumbs.db
 
 # Claude AI
 .claude
+
+# Reference notebooks (no subir)
+GML_Sessions_Notebooks/reference_notebooks/
