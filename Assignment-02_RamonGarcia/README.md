@@ -135,15 +135,6 @@ Degree centrality mapped onto the floor plan. Bright areas (yellow/orange) have 
 
 ---
 
-### 13 — Visibility Graph
-> **Type:** Visibility analysis
-
-A visibility graph computed from the floor plan. Each yellow line connects two viewpoints that have a direct line of sight within the building — if no wall or obstacle blocks the view, an edge is drawn. The dense web of connections in the open corridors and courtyards contrasts with the sparse connectivity near the cell blocks, revealing the visual structure of the prison.
-
-![Visibility graph](Assets/13_visibility_graph.png)
-
----
-
 ### 14 — Visibility Heatmap
 > **Type:** Visibility heatmap (VGA)
 
