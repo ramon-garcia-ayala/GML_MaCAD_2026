@@ -135,7 +135,7 @@ Degree centrality mapped onto the floor plan. Bright areas (yellow/orange) have 
 
 ---
 
-### 14 — Visibility Heatmap
+### 13 — Visibility Heatmap
 > **Type:** Visibility heatmap (VGA)
 
 A heatmap of visual connectivity based on the visibility graph. Warm colors (yellow) indicate areas with high visual reach — places from which many other points are visible. Cool colors (dark blue/purple) mark visually isolated zones hidden behind walls. The open corridors and courtyards score highest, while the individual cells and corners are the most secluded. This is consistent with panoptic prison design, where central circulation spaces maximize surveillance.
