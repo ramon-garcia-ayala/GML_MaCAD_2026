@@ -135,6 +135,24 @@ Degree centrality mapped onto the floor plan. Bright areas (yellow/orange) have 
 
 ---
 
+### 13 — Visibility Graph
+> **Type:** Visibility analysis
+
+A visibility graph computed from the floor plan. Each yellow line connects two viewpoints that have a direct line of sight within the building — if no wall or obstacle blocks the view, an edge is drawn. The dense web of connections in the open corridors and courtyards contrasts with the sparse connectivity near the cell blocks, revealing the visual structure of the prison.
+
+![Visibility graph](Assets/13_visibility_graph.png)
+
+---
+
+### 14 — Visibility Heatmap
+> **Type:** Visibility heatmap (VGA)
+
+A heatmap of visual connectivity based on the visibility graph. Warm colors (yellow) indicate areas with high visual reach — places from which many other points are visible. Cool colors (dark blue/purple) mark visually isolated zones hidden behind walls. The open corridors and courtyards score highest, while the individual cells and corners are the most secluded. This is consistent with panoptic prison design, where central circulation spaces maximize surveillance.
+
+![Visibility heatmap](Assets/14_visibility_heatmap.png)
+
+---
+
 ## Tools
 
 | Tool | Purpose |
